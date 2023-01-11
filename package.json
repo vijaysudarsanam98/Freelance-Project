@@ -16,7 +16,7 @@
   "dependencies": {
     "googleapis": "^39.2.0",
     "index.js": "0.0.3",
-    "knex": "^0.20.12",
+    "knex": "^2.4.0",
     "pg": "^7.18.2"
   }
 }
